@@ -1,14 +1,17 @@
 Livestream Chat Simulator
 =========================
 
-Want to livestream on Youtube or Twitch but have no followers? Don't worry - download this simple fake chat simulator
+Want to livestream on Youtube or Twitch but don't have any followers? Don't worry - download this simple fake chat simulator
 and run it in Visual Studio 2019 or more recent. It gives you a scrolling chat window that appears you have hundreds of adoring followers!
 
-Tutorial coming soon. Brief instructions:
+Front end: Vue.js and CSS
+Back end: .NET Core
+
+How to get it up and running:
 
 <ul>
 <li>Download Visual Studio if you don't have it.</li>
-<li>Download this source code, open the .SLN file in Visual Studio and start the code (F5).</li>
+<li>Download this source code, open the .SLN file in Visual Studio and start the application (F5).</li>
 <li>The code should run in a browser window at the address https://localhost:44378/</li>
 <li>While the code is running point your OBS or other streaming software's chat window to the above URL.</li>
 <li>Customise the fonts/colours by editing wwwroot/css/site.css</li>

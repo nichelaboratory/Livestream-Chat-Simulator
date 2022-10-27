@@ -8,7 +8,6 @@ using Faker;
 namespace Livestream_Chat_Simulator.Classes
 {
 
-
     public static class RandomData
     {
         public static string[] NamingWords = { "Princess", "Diamond", "Luna", "Lunar", "Chef", "Rabbit", "Neko", "Kek", "Killa", "Domino", "Fish", "Chips", "Liar", "Bubba", "Bunny", "Rabbit", "Neko", "Kek", "Killa", "Domino", "Wool", "Shaver", "Knight", "Hot", "Minecraft", "Lotus", "Ford", "Nut", "Nutz", "Pinky", "London", "Paris", "Cheese", "Cheezer", "Swiss", "Dynamite", "Dynamo", "Orange", "Fibber", "Ur", "Mom", "UrMom", "Sucks", "Blocks", "Cox", "Cock", "Restricted", "Private", "Laugh", "Troller", "Trolley", "Troll", "Trollz", "Anonymous", "Banker", "Tea", "Photo", "Selfie", "Prik", "Nob", "Noob", "NoobTuber", "N00b", "Anonymus", "April", "Christmas", "Amerika", "Ferrari", "Subaru", "Wolf", "Wolfie", "Powered", "Zipped", "Speed", "Group", "Think", "Thinker", "Thik", "Offensive", "Dirt", "Bike", "Rider", "Easy", "Wood", "Heaven", "Heavenly", "Thicc", "Kek", "Kik", "Bizarre", "Cool", "Cool", "Joe", "Hood", "Hooza", "Hoodz", "Blakey", "Weird", "Wierd", "Zzz", "Aaa", "Ba", "BC", "Weirdo", "C00l", "Leet", "L33t", "Coder", "Conner", "Connor", "Cactus", "Lily", "Tree", "Wooden", "Oscoa", "Osca", "find", "Nerd", "Geek", "Nerdz", "Biscuit", "Cookie", "Cookee" };
@@ -432,7 +431,6 @@ namespace Livestream_Chat_Simulator.Classes
 
             return response;
         }
-
 
     }
 }

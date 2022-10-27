@@ -15,8 +15,6 @@ namespace Livestream_Chat_Simulator.Controllers
         [Route("API/GetRandomChatResponse/")]
         public string GetRandomChatResponse([FromBody] Dictionary<string, string> foo)
         {
-
-
             DateTime startTime = DateTime.Now;
             dynamic input = (dynamic)foo;
             _ = foo.TryGetValue("Mode", out string mode);
