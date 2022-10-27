@@ -1,0 +1,91 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <title>Chat Controller &#128512; &#128508;</title>
+</head>
+
+<body>
+    <p>&#129731; &#129328;&#127829;&#128508;</p>
+    <div id="RandomChatApp">
+        <div v-if="Responses.length > 0">
+            <div>
+                <div v-for="response in Responses">
+                    <span style="color:yellow">{{response.UserName}}</span> <span v-html="response.Response" style="color:white"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/js/vue.min.js"></script>
+    <script src="~/js/axios.min.js"></script>
+
+    <script>
+
+        new Vue({
+            el: '#RandomChatApp',
+            created() {
+                this.doSearch('Hardware', 'C#,ASP.NET,.NET Core,SQL,Sql Server,MySQL,.NET,ESP8266,ESP32,USB devices,Arduino Uno,Electronics,Arduino Nano,Microprocessor,Components,Embedded C,Micro Python');
+            },
+            data: {
+                MainTopic: '',
+                Activity: 'NONE',
+                Status: 'LOADING',
+                Responses: [],
+                HasError: false,
+                postData: {},
+            },
+            methods: {
+                doSearch(mainTopic, topics) {
+                    this.Status = 'LOADING';
+                    this.MainTopic = mainTopic;
+                    this.Topics = topics;
+                    this.HasError = false;
+                    this.Activity = 'WORKING';
+                    var interval = Math.floor(Math.random() * (3500 - 1000 + 1) + 1000);
+                    setTimeout(() => {
+                        this.getSearchResults();
+                    }, interval)
+
+                },
+                getSearchResults() {
+                    let self = this;
+                    this.postData = { Mode: this.MainTopic, Topics: this.Topics };
+                    axios.post('/API/GetRandomChatResponse/', this.postData).then((response) => {
+                        //console.log(response.data);
+                        this.Responses.push(response.data);
+                        window.scrollTo(0, document.body.scrollHeight);
+
+                        var interval = Math.floor(Math.random() * (4000 - 20 + 1) + 20);
+
+                        setTimeout(() => {
+                            this.getSearchResults();
+                        }, interval)
+
+                        if (response.data.length > 0) {
+                            this.Responses.push(response.data);
+                        } else {
+                            this.HasError = true;
+                            console.log('THERE IS AN ERROR');
+                        }
+
+                        this.Status = 'LOAD_COMPLETE';
+                        this.Activity = 'NONE';
+                    }, (error) => {
+                        this.Status = 'LOAD_ERROR';
+                        console.log(error);
+                    });
+
+                }
+            }
+
+        })
+
+    </script>
+
+</body>
+</html> 

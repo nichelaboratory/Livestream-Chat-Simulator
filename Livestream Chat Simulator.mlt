@@ -1,0 +1,1904 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.7.0" title="Shotcut version 22.04.25" producer="main_bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="60" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:00:12.333">
+    <property name="length">00:00:12.350</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Pokimane.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">efe909e4becd7ac55bdadf2b9599d01f</property>
+  </chain>
+  <chain id="chain1" out="00:00:13.750">
+    <property name="length">00:00:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/AnchorClub.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">10e97a15b95f1ab10f7568f59a625a1e</property>
+  </chain>
+  <chain id="chain2" out="00:00:14.083">
+    <property name="length">00:00:14.100</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/CDawgVA.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8b049bdbfae1a540dc9279ce802dacfb</property>
+  </chain>
+  <chain id="chain3" out="00:00:18.883">
+    <property name="length">00:00:18.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Long Streamer.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">81716d5414ded8abb67c8817677a5a5b</property>
+  </chain>
+  <chain id="chain4" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+  </chain>
+  <chain id="chain5" out="00:02:09.900">
+    <property name="length">00:02:09.917</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator End Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aac0e4375619c51a55952a290508c26d</property>
+  </chain>
+  <chain id="chain6" out="00:00:09.867">
+    <property name="length">00:00:09.883</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/LCS-CSS-Visual Studio.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5862cce8e408502680fbbbba5a69c152</property>
+  </chain>
+  <chain id="chain7" out="00:00:06.967">
+    <property name="length">00:00:06.983</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/LCS-FrontendCode-Visual Studio.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b17b228567f5a27b1ccff06d9614dc20</property>
+  </chain>
+  <chain id="chain8" out="00:00:14.683">
+    <property name="length">00:00:14.700</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/NicheLab-GitHub.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b53050d41496600b0a5a6bb1e4c6f108</property>
+  </chain>
+  <chain id="chain9" out="00:00:16.300">
+    <property name="length">00:00:16.317</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/OBS Resizing Chat Window.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0487d4aa98df5366007720674f70b581</property>
+  </chain>
+  <chain id="chain10" out="00:01:21.983">
+    <property name="length">00:01:22.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Chat Simulator in Firefox.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">773c61caa2df337f21364813e84f95ab</property>
+  </chain>
+  <chain id="chain11" out="00:00:06.000">
+    <property name="length">00:00:06.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Emojis HTML List.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29700fa9bc7133c98d72a4b983164f2a</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/OBS add source.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-05-19T07:00:27</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">62c68752509f51df8513b75a7843f105</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:12.333"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:13.750"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:14.083"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:18.883"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:17:42.100"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:02:09.900"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:09.867"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:06.967"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:14.683"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:00:16.300"/>
+    <entry producer="chain10" in="00:00:00.000" out="00:01:21.983"/>
+    <entry producer="chain11" in="00:00:00.000" out="00:00:06.000"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.983"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:12:47.967">
+    <property name="length">00:12:47.983</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:12:47.967"/>
+  </playlist>
+  <chain id="chain12" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain13" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain14" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain15" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain16" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain17" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain18" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain19" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain20" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain21" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain22" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain23" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain24" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain25" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain26" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain27" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain28" out="00:04:13.750">
+    <property name="length">00:04:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">2e9ed1c4137882dabcbf07983f297995</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Part 1 Raw.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain29" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain30" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain31" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain32" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain33" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain34" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain35" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain36" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain37" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain38" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain39" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain40" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain41" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain42" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain43" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain44" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain45" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain46" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain47" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain48" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain49" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain50" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain51" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain52" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain53" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain54" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain55" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain56" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain57" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain58" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain59" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain60" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain61" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain62" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain63" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain64" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain65" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain66" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain67" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain68" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain69" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain70" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain71" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain72" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain73" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain74" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain75" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain76" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain77" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain78" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain79" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain80" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain81" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain82" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain83" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain84" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain85" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain86" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain87" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain88" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain89" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain90" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain91" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain92" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain93" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain94" out="00:17:42.100">
+    <property name="length">00:17:42.117</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator Main Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7deafb6cf6d9f652b83fb810c4649f7f</property>
+    <property name="shotcut:caption">Livestream Chat Simulator Main Raw.mp4</property>
+  </chain>
+  <chain id="chain95" out="00:02:09.900">
+    <property name="length">00:02:09.917</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator End Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aac0e4375619c51a55952a290508c26d</property>
+    <property name="shotcut:caption">Livestream Chat Simulator End Raw.mp4</property>
+  </chain>
+  <chain id="chain96" out="00:02:09.900">
+    <property name="length">00:02:09.917</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator End Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aac0e4375619c51a55952a290508c26d</property>
+    <property name="shotcut:caption">Livestream Chat Simulator End Raw.mp4</property>
+  </chain>
+  <chain id="chain97" out="00:02:09.900">
+    <property name="length">00:02:09.917</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator End Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aac0e4375619c51a55952a290508c26d</property>
+    <property name="shotcut:caption">Livestream Chat Simulator End Raw.mp4</property>
+  </chain>
+  <chain id="chain98" out="00:02:09.900">
+    <property name="length">00:02:09.917</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator End Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aac0e4375619c51a55952a290508c26d</property>
+    <property name="shotcut:caption">Livestream Chat Simulator End Raw.mp4</property>
+  </chain>
+  <chain id="chain99" out="00:02:09.900">
+    <property name="length">00:02:09.917</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator End Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aac0e4375619c51a55952a290508c26d</property>
+    <property name="shotcut:caption">Livestream Chat Simulator End Raw.mp4</property>
+  </chain>
+  <chain id="chain100" out="00:02:09.900">
+    <property name="length">00:02:09.917</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator End Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aac0e4375619c51a55952a290508c26d</property>
+    <property name="shotcut:caption">Livestream Chat Simulator End Raw.mp4</property>
+  </chain>
+  <chain id="chain101" out="00:02:09.900">
+    <property name="length">00:02:09.917</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Raw Captures/Livestream Chat Simulator End Raw.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">aac0e4375619c51a55952a290508c26d</property>
+    <property name="shotcut:caption">Livestream Chat Simulator End Raw.mp4</property>
+    <filter id="filter0" in="00:02:04.000" out="00:02:07.650">
+      <property name="start">1</property>
+      <property name="level">00:00:03.050=1;00:00:03.650=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">37</property>
+    </filter>
+    <filter id="filter1" in="00:02:04.000" out="00:02:07.650">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:03.050=0;00:00:03.650=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">37</property>
+    </filter>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain12" in="00:00:20.333" out="00:00:24.817"/>
+    <entry producer="chain13" in="00:00:34.233" out="00:00:42.183"/>
+    <entry producer="chain14" in="00:00:46.650" out="00:00:49.900"/>
+    <entry producer="chain15" in="00:00:52.483" out="00:00:59.533"/>
+    <entry producer="chain16" in="00:01:11.483" out="00:01:19.000"/>
+    <entry producer="chain17" in="00:01:35.333" out="00:01:42.883"/>
+    <entry producer="chain18" in="00:01:46.450" out="00:01:56.150"/>
+    <entry producer="chain19" in="00:02:06.250" out="00:02:14.050"/>
+    <entry producer="chain20" in="00:02:17.067" out="00:02:20.800"/>
+    <entry producer="chain21" in="00:02:25.833" out="00:02:41.517"/>
+    <entry producer="chain22" in="00:02:51.717" out="00:02:57.883"/>
+    <entry producer="chain23" in="00:02:59.983" out="00:03:03.883"/>
+    <entry producer="chain24" in="00:03:15.633" out="00:03:17.133"/>
+    <entry producer="chain25" in="00:03:26.267" out="00:03:35.267"/>
+    <entry producer="chain26" in="00:03:38.083" out="00:03:42.267"/>
+    <entry producer="chain27" in="00:03:44.533" out="00:03:49.833"/>
+    <entry producer="chain28" in="00:03:55.717" out="00:04:09.500"/>
+    <entry producer="chain29" in="00:00:09.417" out="00:00:14.667"/>
+    <entry producer="chain30" in="00:00:24.117" out="00:00:30.367"/>
+    <entry producer="chain31" in="00:00:30.650" out="00:00:31.467"/>
+    <entry producer="chain32" in="00:00:36.650" out="00:00:40.133"/>
+    <entry producer="chain33" in="00:00:40.883" out="00:00:47.233"/>
+    <entry producer="chain34" in="00:01:09.750" out="00:01:29.083"/>
+    <entry producer="chain35" in="00:01:35.050" out="00:01:37.517"/>
+    <entry producer="chain36" in="00:01:38.700" out="00:02:05.700"/>
+    <entry producer="chain37" in="00:02:07.417" out="00:02:11.700"/>
+    <entry producer="chain38" in="00:02:12.850" out="00:02:42.583"/>
+    <entry producer="chain39" in="00:02:48.050" out="00:03:03.200"/>
+    <entry producer="chain40" in="00:03:12.333" out="00:03:18.383"/>
+    <entry producer="chain41" in="00:03:22.817" out="00:03:25.633"/>
+    <entry producer="chain42" in="00:03:26.183" out="00:03:26.950"/>
+    <entry producer="chain43" in="00:03:27.133" out="00:03:32.133"/>
+    <entry producer="chain44" in="00:03:32.550" out="00:03:34.067"/>
+    <entry producer="chain45" in="00:03:35.650" out="00:03:44.217"/>
+    <entry producer="chain46" in="00:03:45.617" out="00:03:49.833"/>
+    <entry producer="chain47" in="00:03:52.567" out="00:04:20.433"/>
+    <entry producer="chain48" in="00:04:40.850" out="00:04:45.617"/>
+    <entry producer="chain49" in="00:04:49.983" out="00:04:50.300"/>
+    <entry producer="chain50" in="00:04:50.317" out="00:05:05.333"/>
+    <entry producer="chain51" in="00:05:05.833" out="00:05:26.750"/>
+    <entry producer="chain52" in="00:05:27.267" out="00:05:29.267"/>
+    <entry producer="chain53" in="00:05:31.683" out="00:05:36.783"/>
+    <entry producer="chain54" in="00:05:39.083" out="00:05:54.933"/>
+    <entry producer="chain55" in="00:06:16.550" out="00:06:27.867"/>
+    <entry producer="chain56" in="00:06:29.617" out="00:06:34.133"/>
+    <entry producer="chain57" in="00:06:39.217" out="00:06:54.517"/>
+    <entry producer="chain58" in="00:07:11.017" out="00:07:16.600"/>
+    <entry producer="chain59" in="00:07:18.867" out="00:07:24.117"/>
+    <entry producer="chain60" in="00:07:29.633" out="00:07:36.083"/>
+    <entry producer="chain61" in="00:07:43.433" out="00:07:53.033"/>
+    <entry producer="chain62" in="00:07:55.717" out="00:08:00.167"/>
+    <entry producer="chain63" in="00:08:03.383" out="00:08:10.967"/>
+    <entry producer="chain64" in="00:08:16.767" out="00:08:23.867"/>
+    <entry producer="chain65" in="00:08:34.383" out="00:08:59.967"/>
+    <entry producer="chain66" in="00:09:33.117" out="00:10:24.367"/>
+    <entry producer="chain67" in="00:10:34.817" out="00:10:40.783"/>
+    <entry producer="chain68" in="00:10:41.467" out="00:10:43.950"/>
+    <entry producer="chain69" in="00:11:02.750" out="00:11:17.917"/>
+    <entry producer="chain70" in="00:11:33.167" out="00:11:38.233"/>
+    <entry producer="chain71" in="00:11:42.900" out="00:11:54.300"/>
+    <entry producer="chain72" in="00:11:54.317" out="00:11:56.533"/>
+    <entry producer="chain73" in="00:12:00.183" out="00:12:04.183"/>
+    <entry producer="chain74" in="00:12:11.533" out="00:12:24.250"/>
+    <entry producer="chain75" in="00:12:30.767" out="00:12:34.833"/>
+    <entry producer="chain76" in="00:12:35.983" out="00:12:38.417"/>
+    <entry producer="chain77" in="00:12:41.733" out="00:12:54.983"/>
+    <entry producer="chain78" in="00:12:55.000" out="00:13:06.800"/>
+    <entry producer="chain79" in="00:13:07.300" out="00:13:08.117"/>
+    <entry producer="chain80" in="00:13:10.650" out="00:13:26.367"/>
+    <entry producer="chain81" in="00:13:36.833" out="00:13:41.850"/>
+    <entry producer="chain82" in="00:13:42.300" out="00:13:43.633"/>
+    <entry producer="chain83" in="00:13:46.917" out="00:13:57.267"/>
+    <entry producer="chain84" in="00:14:03.050" out="00:14:04.033"/>
+    <entry producer="chain85" in="00:14:04.417" out="00:14:20.350"/>
+    <entry producer="chain86" in="00:14:39.033" out="00:14:41.450"/>
+    <entry producer="chain87" in="00:14:41.750" out="00:14:44.683"/>
+    <entry producer="chain88" in="00:14:49.400" out="00:14:52.767"/>
+    <entry producer="chain89" in="00:15:01.817" out="00:15:07.167"/>
+    <entry producer="chain90" in="00:15:14.800" out="00:15:19.950"/>
+    <entry producer="chain91" in="00:16:15.750" out="00:16:21.300"/>
+    <entry producer="chain92" in="00:16:21.317" out="00:16:23.950"/>
+    <entry producer="chain93" in="00:16:33.667" out="00:16:34.750"/>
+    <entry producer="chain94" in="00:16:37.967" out="00:16:45.950"/>
+    <entry producer="chain95" in="00:00:06.550" out="00:00:28.833"/>
+    <entry producer="chain96" in="00:00:41.433" out="00:00:46.917"/>
+    <entry producer="chain97" in="00:00:51.517" out="00:00:59.333"/>
+    <entry producer="chain98" in="00:01:04.817" out="00:01:18.067"/>
+    <entry producer="chain99" in="00:01:19.817" out="00:01:32.267"/>
+    <entry producer="chain100" in="00:01:32.283" out="00:01:43.233"/>
+    <entry producer="chain101" in="00:02:04.000" out="00:02:07.650"/>
+  </playlist>
+  <chain id="chain102" out="00:00:12.333">
+    <property name="length">00:00:12.350</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Pokimane.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">efe909e4becd7ac55bdadf2b9599d01f</property>
+    <property name="shotcut:caption">Pokimane.mp4</property>
+  </chain>
+  <chain id="chain103" out="00:00:18.883">
+    <property name="length">00:00:18.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Long Streamer.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">81716d5414ded8abb67c8817677a5a5b</property>
+    <property name="shotcut:caption">Long Streamer.mp4</property>
+  </chain>
+  <producer id="producer1" in="00:00:00.000" out="00:00:03.283">
+    <property name="length">00:00:03.300</property>
+    <property name="eof">pause</property>
+    <property name="resource">3:C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/LCS-CSS-Visual Studio.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">3</property>
+    <property name="warp_resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/LCS-CSS-Visual Studio.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">5862cce8e408502680fbbbba5a69c152</property>
+    <property name="shotcut:caption">LCS-CSS-Visual Studio.mp4 (3x)</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:09.150">
+    <property name="length">00:00:09.167</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.5:C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/AnchorClub.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.5</property>
+    <property name="warp_resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/AnchorClub.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">10e97a15b95f1ab10f7568f59a625a1e</property>
+    <property name="shotcut:caption">AnchorClub.mp4 (1.5x)</property>
+    <property name="xml">was here</property>
+  </producer>
+  <chain id="chain104" out="00:01:21.983">
+    <property name="length">00:01:22.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Chat Simulator in Firefox.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">773c61caa2df337f21364813e84f95ab</property>
+    <property name="shotcut:caption">Chat Simulator in Firefox.mp4</property>
+  </chain>
+  <chain id="chain105" out="00:00:14.083">
+    <property name="length">00:00:14.100</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/CDawgVA.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8b049bdbfae1a540dc9279ce802dacfb</property>
+    <property name="shotcut:caption">CDawgVA.mp4</property>
+  </chain>
+  <producer id="producer3" in="00:00:00.000" out="00:00:05.333">
+    <property name="length">00:00:05.350</property>
+    <property name="eof">pause</property>
+    <property name="resource">2.75:C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/NicheLab-GitHub.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2.75</property>
+    <property name="warp_resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/NicheLab-GitHub.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">b53050d41496600b0a5a6bb1e4c6f108</property>
+    <property name="shotcut:caption">NicheLab-GitHub.mp4 (2.75x)</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:00:04.933">
+    <property name="length">00:00:04.950</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/LCS-CSS-Visual Studio.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/LCS-CSS-Visual Studio.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">5862cce8e408502680fbbbba5a69c152</property>
+    <property name="shotcut:caption">LCS-CSS-Visual Studio.mp4 (2x)</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:00:13.033">
+    <property name="length">00:00:13.050</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.25:C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/OBS Resizing Chat Window.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.25</property>
+    <property name="warp_resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/OBS Resizing Chat Window.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">0487d4aa98df5366007720674f70b581</property>
+    <property name="shotcut:caption">OBS Resizing Chat Window.mp4 (1.25x)</property>
+    <property name="xml">was here</property>
+    <filter id="filter2" out="00:00:07.800">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-240.96 -63.7741 2401.92 1316.05 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <chain id="chain106" out="00:00:12.333">
+    <property name="length">00:00:12.350</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Pokimane.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">efe909e4becd7ac55bdadf2b9599d01f</property>
+    <property name="shotcut:caption">Pokimane.mp4</property>
+    <filter id="filter3" out="00:00:12.333">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-924.58 -238.697 3000.96 1688.04 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain107" out="00:00:18.883">
+    <property name="length">00:00:18.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Long Streamer.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">81716d5414ded8abb67c8817677a5a5b</property>
+    <property name="shotcut:caption">Long Streamer.mp4</property>
+    <filter id="filter4" out="00:00:04.183">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-917.483 -232.628 2851.2 1603.8 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain108" out="00:00:18.883">
+    <property name="length">00:00:18.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Long Streamer.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">81716d5414ded8abb67c8817677a5a5b</property>
+    <property name="shotcut:caption">Long Streamer.mp4</property>
+  </chain>
+  <chain id="chain109" out="00:00:13.750">
+    <property name="length">00:00:13.767</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/AnchorClub.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">10e97a15b95f1ab10f7568f59a625a1e</property>
+    <property name="shotcut:caption">AnchorClub.mp4</property>
+  </chain>
+  <chain id="chain110" out="00:00:06.967">
+    <property name="length">00:00:06.983</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/LCS-FrontendCode-Visual Studio.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b17b228567f5a27b1ccff06d9614dc20</property>
+    <property name="shotcut:caption">LCS-FrontendCode-Visual Studio.mp4</property>
+  </chain>
+  <chain id="chain111" out="00:01:21.983">
+    <property name="length">00:01:22.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Chat Simulator in Firefox.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">773c61caa2df337f21364813e84f95ab</property>
+    <property name="shotcut:caption">Chat Simulator in Firefox.mp4</property>
+  </chain>
+  <chain id="chain112" out="00:00:14.083">
+    <property name="length">00:00:14.100</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/CDawgVA.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8b049bdbfae1a540dc9279ce802dacfb</property>
+    <property name="shotcut:caption">CDawgVA.mp4</property>
+    <filter id="filter5" out="00:00:07.467">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-1463.83 -713.135 3452.16 1941.84 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain113" out="00:00:06.000">
+    <property name="length">00:00:06.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/Emojis HTML List.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29700fa9bc7133c98d72a4b983164f2a</property>
+    <property name="shotcut:caption">Emojis HTML List.mp4</property>
+  </chain>
+  <chain id="chain114" out="00:00:14.683">
+    <property name="length">00:00:14.700</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/NicheLab-GitHub.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b53050d41496600b0a5a6bb1e4c6f108</property>
+    <property name="shotcut:caption">NicheLab-GitHub.mp4</property>
+  </chain>
+  <chain id="chain115" out="00:00:16.300">
+    <property name="length">00:00:16.317</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/OBS Resizing Chat Window.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0487d4aa98df5366007720674f70b581</property>
+    <property name="shotcut:caption">OBS Resizing Chat Window.mp4</property>
+  </chain>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/brett/Videos/Coding With Brett/C#/Livestream Chat Simulator/OBS add source.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2022-05-19T07:00:27</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">62c68752509f51df8513b75a7843f105</property>
+    <property name="shotcut:caption">OBS add source.png</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <blank length="00:00:05.217"/>
+    <entry producer="chain102" in="00:00:00.000" out="00:00:02.617"/>
+    <entry producer="chain103" in="00:00:00.000" out="00:00:04.667"/>
+    <blank length="00:00:04.733"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.283"/>
+    <blank length="00:00:05.633"/>
+    <entry producer="producer2" in="00:00:02.767" out="00:00:07.183"/>
+    <entry producer="chain104" in="00:00:28.900" out="00:00:32.400"/>
+    <entry producer="chain105" in="00:00:03.517" out="00:00:07.400"/>
+    <blank length="00:00:01.167"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:05.333"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.033"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:07.800"/>
+    <blank length="00:00:03.183"/>
+    <entry producer="chain106" in="00:00:00.000" out="00:00:12.333"/>
+    <entry producer="chain107" in="00:00:00.000" out="00:00:04.183"/>
+    <blank length="00:00:04.583"/>
+    <entry producer="chain108" in="00:00:10.617" out="00:00:14.000"/>
+    <entry producer="chain109" in="00:00:06.150" out="00:00:13.750"/>
+    <blank length="00:00:08.950"/>
+    <entry producer="chain110" in="00:00:00.000" out="00:00:05.700"/>
+    <blank length="00:03:00.250"/>
+    <entry producer="chain111" in="00:00:15.217" out="00:00:26.317"/>
+    <blank length="00:02:47.683"/>
+    <entry producer="chain112" in="00:00:00.000" out="00:00:07.467"/>
+    <blank length="00:02:45.817"/>
+    <entry producer="chain113" in="00:00:00.000" out="00:00:04.750"/>
+    <blank length="00:00:12.250"/>
+    <entry producer="chain114" in="00:00:00.000" out="00:00:09.317"/>
+    <blank length="00:00:10.533"/>
+    <entry producer="chain115" in="00:00:00.000" out="00:00:04.050"/>
+    <blank length="00:00:26.833"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:04.617"/>
+  </playlist>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <blank length="00:00:00.017"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 22.04.25" in="00:00:00.000" out="00:12:47.967">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">1.43383</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="audio"/>
+    <track producer="playlist2"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
