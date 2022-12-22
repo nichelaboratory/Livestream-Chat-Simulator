@@ -10,12 +10,22 @@
 </head>
 
 <body>
-    <p>Test emojis: &#129731; &#129328;&#127829;&#128508;</p>
+
+    <!--template example-->
+@*    <div id="foo">
+            <div>
+                    <img src="~/images/avatars/asuna-avatar.jpg"  style="width:64px; height:64px; vertical-align:middle" />
+                    <span style="color:yellow">Name</span>: <span style="color:white">Their response goes here</span>
+            </div>
+        
+    </div>*@
+
     <div id="RandomChatApp">
         <div v-if="Responses.length > 0">
             <div>
-                <div v-for="response in Responses">
-                    <span style="color:yellow">{{response.UserName}}</span> <span v-html="response.Response" style="color:white"></span>
+                <div v-for="response in Responses" style="padding-bottom:10px;">
+                    <img v-bind:src="response.User.AvatarImageUrl" style="width:48px; height:48px; vertical-align:middle" />
+                    <span :style="{color: response.User.HTMLColour}">{{response.User.Name}}</span> <span style="color:white">:</span> <span v-html="response.Response" style="color:white"></span>
                 </div>
             </div>
         </div>
@@ -29,7 +39,7 @@
         new Vue({
             el: '#RandomChatApp',
             created() {
-                this.doSearch('Hardware', 'C#,ASP.NET,.NET Core,SQL,Sql Server,MySQL,.NET,ESP8266,ESP32,USB devices,Arduino Uno,Electronics,Arduino Nano,Microprocessor,Components,Embedded C,Micro Python');
+                this.doSearch('Hardware', 'dolls, Dolls, Azones, Pureneemos, BJDs, BJD, Dollfies, Dollfie Dream, toys, collectibles, Smart Dolls');
             },
             data: {
                 MainTopic: '',

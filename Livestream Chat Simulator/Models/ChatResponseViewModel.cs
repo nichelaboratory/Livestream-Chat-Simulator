@@ -7,7 +7,7 @@ namespace Livestream_Chat_Simulator.Models
 {
     public class ChatResponseViewModel
     {
-        public string UserName { get; set; }
+        public User User { get; set; }
         public string Response { get; set; }
         public DateTime TimeStamp { get; set; }
     }
