@@ -29,7 +29,7 @@ namespace Livestream_Chat_Simulator.Controllers
 
             ChatResponseViewModel chatResponseViewModel = new ChatResponseViewModel();
             chatResponseViewModel.User = currentUser;
-            chatResponseViewModel.Response = RandomData.GetRandomResponse(mode, topics, "blah blah");
+            chatResponseViewModel.Response = RandomData.GetRandomResponse(mode, topics, currentUser);
             chatResponseViewModel.TimeStamp = DateTime.UtcNow;
 
             return JsonConvert.SerializeObject(chatResponseViewModel);

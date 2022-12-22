@@ -39,7 +39,7 @@
         new Vue({
             el: '#RandomChatApp',
             created() {
-                this.doSearch('Hardware', 'dolls, Dolls, Azones, Pureneemos, BJDs, BJD, Dollfies, Dollfie Dream, toys, collectibles, Smart Dolls');
+                this.doSearch('Dolls', 'Azone Pureneemos, BJDs, vinyl dolls, dolls, ball-jointed dolls, Smart Dolls, Azones, Pureneemos, Dollfie Dream Dynamites, Dollfie Dream Sisters, Dollfies, Obitsu dolls, Obitsu BJD, collectibles, toys, sewing, 3D printing, dressmaking, Volks, Blythe, Dollfie Dreams');
             },
             data: {
                 MainTopic: '',
@@ -70,7 +70,7 @@
                         this.Responses.push(response.data);
                         window.scrollTo(0, document.body.scrollHeight);
 
-                        var interval = Math.floor(Math.random() * (4000 - 20 + 1) + 20);
+                        var interval = Math.floor(Math.random() * (3000 - 20 + 1) + 20);
 
                         setTimeout(() => {
                             this.getSearchResults();
