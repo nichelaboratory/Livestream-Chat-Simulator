@@ -63,6 +63,12 @@ namespace Livestream_Chat_Simulator.Classes
             user.AvatarImageUrl = avatarFolder + "Rin-Avatar.jpg";
             users.Add(user);
 
+            user = new User();
+            user.Name = "Kuzuha";
+            user.HTMLColour = "#E33939";
+            user.AvatarImageUrl = avatarFolder + "Kuzuha-Avatar.jpg";
+            users.Add(user);
+
             return users;
         }
 

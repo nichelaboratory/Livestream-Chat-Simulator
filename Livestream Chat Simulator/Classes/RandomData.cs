@@ -12,11 +12,21 @@ namespace Livestream_Chat_Simulator.Classes
     public static class RandomData
     {
         public static string[] NamingWords = { "Princess", "Diamond", "Luna", "Lunar", "Chef", "Rabbit", "Neko", "Kek", "Killa", "Domino", "Fish", "Chips", "Liar", "Bubba", "Bunny", "Rabbit", "Neko", "Kek", "Killa", "Domino", "Wool", "Shaver", "Knight", "Hot", "Minecraft", "Lotus", "Ford", "Nut", "Nutz", "Pinky", "London", "Paris", "Cheese", "Cheezer", "Swiss", "Dynamite", "Dynamo", "Orange", "Fibber", "Ur", "Mom", "UrMom", "Sucks", "Blocks", "Cox", "Cock", "Restricted", "Private", "Laugh", "Troller", "Trolley", "Troll", "Trollz", "Anonymous", "Banker", "Tea", "Photo", "Selfie", "Prik", "Nob", "Noob", "NoobTuber", "N00b", "Anonymus", "April", "Christmas", "Amerika", "Ferrari", "Subaru", "Wolf", "Wolfie", "Powered", "Zipped", "Speed", "Group", "Think", "Thinker", "Thik", "Offensive", "Dirt", "Bike", "Rider", "Easy", "Wood", "Heaven", "Heavenly", "Thicc", "Kek", "Kik", "Bizarre", "Cool", "Cool", "Joe", "Hood", "Hooza", "Hoodz", "Blakey", "Weird", "Wierd", "Zzz", "Aaa", "Ba", "BC", "Weirdo", "C00l", "Leet", "L33t", "Lazy bitch", "Conner", "Connor", "Cactus", "Lily", "Tree", "Fake", "plastic", "Nerd", "Geek", "Nerdz", "Biscuit", "Cookie", "Cookee" };
-        public static string[] CannedResponses = { "Lolllllllll", "This is not interesting", "Ban hammer needed", "Anyone else here coz theyr banned from T%", "Loooooooooooooooooolllll", "Ur funny man", "Imma so high right now", "I'm totally lit", "Has anybody eaten yet", "When does this stream finish", "I'm soooo hot 4 U", "Love ur accent", "I wanna quit my job and become a scalper", "Dolls are so awesome are we not?", "P% is really l33t", "Fish", "Chips", "How much RedBull u drank", "This ain't no chillstream", "Do a dance", "I thought this stuff only happened on T%", "Neko", "When I watch this I forget about my sewing machine injuries", "You make me forget about the world and its problems", "F% gonna have a meltdown man", "Woah", "This makes me wanna put on a dress", "I get what ur sayin' man", "Neat", "I wanna 3D print an entire boyfriend", "I want to change my gender", "I need to swap outfits ASAP", "I can never remember where I left my A%", "My A% should arrive today", "My A% should arrive tomorrow", "London", "Paris", "Cheese", "Cheezer", "Swiss", "Dynamite", "Any vegans in the house", "F% sooo funny", "This is a lonely time of year", "This is a bad time of year for me", "This is the worst time of year for me", "This channel is the dogs", "This channel is soooo lame", "Blocks", "I'm having a bad hair day", "Somebody has stolen my A%", "Restricted", "I'm not following this today", "I laughed", "F% got me", "P% is sooooo hard I don't know if I should continue or just not", "Anybody else done a code camp", "Can u do more hacking tutorials", "Trying to keep up with the chat", "People is mad today", "Gonna smoke me some weed later", "Photo", "Selfie", "April", "Christmas", "Amerika", "Ferrari", "My joints ache today", "My neck aches today", "My eyes fell out while I was asleep", "This wig is really tight", "My elbows feel really creaky today", "Why aren't there any male dolls in our house?", "Why aren't there any boy dolls in our house?", "Think", "Thinker", "Thik", "Offensive", "Dirt", "Bike", "Rider", "Easy", "Wood", "Heaven", "Heavenly", "Thicc", "Are my lips too small?", "Do my lips look too small?", "Do you think my faceup is hot?", "Weird", "Wierd", "Zzz", "Cactus", "Lily", "Tree", "Wooden", "Oscoa", "P% makes me sad", "F% should stream tutorials on Twitch", "Like Like Like", "Awesome as always", "He speaks the truth", "Listen to this man", "F% if I had any money I'd sent it to F% straight away", "F% shud stream more often", "Wicked", "Anyone else hate coding tests?", "Coding is such a terrible career anyway", "Wish I could be a streamer", "Start naming names", "Anybody else eating M% at 2pm", "Anyone else eating M% at 6am", "Who else likes pizza for breakfast?", "My code camp was a waste of money", "This guy's videos are so good", "How do I donate?", "Send this guy money.", "Doll collectors are the new rockstars.", "U need a green screen dude", "Great chill stream, I have this one when I'm doing H%", "Fantastic advice, thanx", "I would not be seen dead wearing that" };
+        public static string[] CannedResponses = { "Lolllllllll", "This is not interesting", "Ban hammer needed", "Anyone else here coz theyr banned from T%", "Loooooooooooooooooolllll", "Ur funny man", "Imma so high right now", "I'm totally lit", "Has anybody eaten yet", "When does this stream finish", "I'm soooo hot 4 U", "Love ur accent", "I wanna quit my job and become a scalper", "Dolls are so awesome are we not?", "P% is really l33t", "Fish", "Chips", "How much RedBull u drank", "This ain't no chillstream", "Do a dance", "I thought this stuff only happened on T%", "Neko", "When I watch this I forget about my sewing machine injuries", "You make me forget about the world and its problems", "F% gonna have a meltdown man", "Woah", "This makes me wanna put on a dress", "I get what ur sayin' man", "Neat", "I wanna 3D print an entire boyfriend", "I want to change my gender", "I need to swap outfits ASAP", "I can never remember where I left my A%", "My A% should arrive today", "My A% should arrive tomorrow", "London", "Paris", "Cheese", "Cheezer", "Swiss", "Dynamite", "Any vegans in the house", "F% sooo funny", "This is a lonely time of year", "This is a bad time of year for me", "This is the worst time of year for me", "This channel is the dogs", "This channel is soooo lame", "Blocks", "I'm having a bad hair day", "Somebody has stolen my A%", "Restricted", "I'm not following this today", "I laughed", "F% got me", "P% is sooooo hard I don't know if I should continue or just not", "Anybody else done a code camp", "Anybody else want to go to a E%?", "Can u do more hacking tutorials", "Trying to keep up with the chat", "People is mad today", "Gonna smoke me some weed later", "Photo", "Selfie", "April", "Christmas", "Amerika", "Ferrari", "My joints ache today", "My neck aches today", "My eyes fell out while I was asleep", "This wig is really tight", "My elbows feel really creaky today", "Why aren't there any male dolls in our house?", "Why aren't there any boy dolls in our house?", "Why aren't there any trans dolls in our house?", "Why aren't there any non-binary dolls in our house?", "Think", "Thinker", "Thik", "Offensive", "Dirt", "What do you think of those cat dolls? Aren't they totally creepy?", "My mom told me never to talk to strange dolls", "Easy", "Wood", "Heaven", "Heavenly", "Thicc", "Are my B% too small?", "Do my B% look too small?", "Do you think my faceup is hot?", "Weird", "Wierd", "Zzz", "Cactus", "Lily", "Tree", "Wooden", "Oscoa", "P% makes me sad", "F% should stream tutorials on Twitch", "Like Like Like", "Awesome as always", "He speaks the truth", "Listen to this man", "F% if I had any money I'd sent it to F% straight away", "F% shud stream more often", "Wicked", "Anyone else hate coding tests?", "Coding is such a terrible career anyway", "Wish I could be a streamer", "Start naming names", "Anybody else eating M% at 2pm", "Anyone else eating M% at 6am", "Who else likes pizza for breakfast?", "My code camp was a waste of money", "This guy's videos are so good", "How do I donate?", "Send this guy money.", "Doll collectors are the new rockstars.", "U need a green screen dude", "Great chill stream, I have this one when I'm doing H%", "Fantastic advice, thanx", "I would not be seen dead wearing that", "I talked to Y% but he wasn't that interesting", "I tried to talk to to X% but she just blanked me", "I think my B% are really awful" };
+
+        //B% Bodyparts
+        public static string[] BodyParts =  { "lips", "thighs", "eyes", "elbows", "knee joints", "ears", "animatic eyes", "feet", "toes", "eyebrows", "hips" };
+        //E% Events
+        public static string[] Events = { "anime convention", "code camp", "doll fair", "collectibles fair", "unboxing party", "baby shower", "funeral", "wedding" };
+
         //P%
         public static string[] DollTypes = { "dolls", "vinyl dolls", "ball jointed dolls", "ball-jointed dolls", "BJDs", "dollies", "anime dolls" };
         //F%
         public static string[] FirstPerson = { "You", "U" };
+        //Y% boy doll names
+        public static string[] BoyDolls = { "Len", "Kaito" };
+        //X% girl doll names
+        public static string[] GirlDolls = { "Saber", "Ribbon", "Koron", "Karin", "Candy", "Miko", "Aoi", "Yor Forger", "Ranka", "Freya", "Arcueid" };
         //T%
         public static string[] TechPlatforms = { "TikTok", "Twitch", "Facebook", "Reddit", "Vimeo", "Slack", "Fortnite", "The Metaverse", "KawaiiDolls", "DollTube", "Dollbook" };
 
@@ -24,7 +34,7 @@ namespace Livestream_Chat_Simulator.Classes
         public static string[] AuctionVendors = { "Mandarake", "eBay", "eBay", "Facebook Marketplace", "eBay", "Yahoo Auctions" };
 
         //H%
-        public static string[] Hobbies = { "yoga", "bitching about my friends behind their backs", "sewing", "sleeping", "dining out", "borrowing my friends' clothes", "spending senpai's money", "dreaming about Kaito", "dreaming about Len", "falling over on my face", "looking bored" };
+        public static string[] Hobbies = { "yoga", "bitching about my friends behind their backs", "sewing", "sleeping", "dining out", "borrowing my friends' clothes", "spending senpai's money", "dreaming about Kaito", "dreaming about Len", "falling over on my face", "looking bored", "dreaming about Y%", "gossiping with X%", "looking for nude photos of Y%", "on the phone to X%", "sexting Y%" };
 
         //M%
         public static string[] Meals = { "breakfast", "lunch", "snacks", "PoP Tarts", "toast", "Cheetos", "hummous", "pizza", "&#127856;", "&#129386;", "&#129472;", "&#127829;", "eggs", "pies", "sodas", "ramen noodles", "yaki soba" };
@@ -44,7 +54,7 @@ namespace Livestream_Chat_Simulator.Classes
         public static string[] ChillPhrases = { "Chill, girl", "U go girl", "Wow", "This guy's on point", "Chillax", "Relax", "Calm down", "Don't have a meltdown" };
 
         public static string[] Insults = { "is a trashy whore", "is really thicc", "is so stupid sometimes", "is annoying", "is really fugly", "is horrible", "sux", "is not my friend today", "is so stupid", "once stole my boyfriend", "slept with my bff", "is lamer", "is lame", "is l33tr", "totally lit", "are a waste of space", "is awful", "are sooooo dumb", "is the worst person ever", "is such an npc", "talks trash", "and I are not speaking today", "is a fat cow", "is so thicc", "wears skirts so short you can see her pantsu", "is totally clueless", "stole my last boyfriend", "snores so loudly", "isn't as hot as she thinks she is", "once bodyshamed me", "spends all day reading magazines", "spends all day reading her horoscopes", "is a total attention whore", "talks about everybody behind their backs", "is a terrible gossip"};
-        public static string[] Praise = { "is the best person in the entire world", "is the best friend you could ever wish for", "has the most amazing eyes", "has the most amazing outfits", "is really pretty", "is so cute", "is really hot", "really helped me when I was at my lowest point" };
+        public static string[] Praise = { "is the best person in the entire world", "is the best friend you could ever wish for", "has the most amazing eyes", "has the most amazing outfits", "is really pretty", "is so cute", "is really hot", "really helped me when I was at my lowest point", "has the most beautiful B%", "has the most amazing B%", "helped me when Y% was mean to me", "looked after me when there was that incident with X%", "stopped X% going crazy when I slept with Y%", "helped me get a date with Y%" };
 
         public static string[] Emojis = { "&#128508;", "&#128512;", "&#128151;", "&#128507;", "&#128509;", "&#128511;", "&#128512;", "&#128513;", "&#128514;", "&#128515;", "&#128516;", "&#128517;", "&#128508;", "&#128512;", "&#128151;", "&#128507;", "&#128509;", "&#128511;", "&#128512;", "&#128513;", "&#128514;", "&#128515;", "&#128516;", "&#128517;", "&#128523;", "&#128525;", "&#128526;", "&#128527;", "&#128541;", "&#128556;", "&#128561;", "&#128567;", "&#128576;", "&#128585;", "&#129318;", "&#129326;", "&#129351;", "&#9748;", "&#9940;", "&#127752;", "&#127755;", "&#127797;", "&#127812;", "&#127813;", "&#127828;", "&#127829;", "&#128013;", "&#128025;", "&#128039;", "&#128041;", "&#128064;", "&#128084;", "&#128125;", "&#128163;", "&#128161;", "&#128169;", "&#128169;", "&#128173;", "&#128266;", "&#128187;", "&#128186;", "&#128184;", "&#128199;", "&#128225;", "&#129472;", "&#129497;", "&#129428;", "&#129425;", "&#129369;", "&#129315;", "&#129314;", "&#128760;" };
 
@@ -170,26 +180,48 @@ namespace Livestream_Chat_Simulator.Classes
             }
 
             Random rnd = new Random(Guid.NewGuid().GetHashCode());
+
             int i = rnd.Next(0, DollTypes.Length);
             response = response.Replace("P%", DollTypes[i]);
+            
             i = rnd.Next(0, FirstPerson.Length);
             response = response.Replace("F%", FirstPerson[i]);
+            
             i = rnd.Next(0, TechPlatforms.Length);
             response = response.Replace("T%", TechPlatforms[i]);
+
             i = rnd.Next(0, DollInfluencers.Length);
             response = response.Replace("I%", DollInfluencers[i]);
+
             i = rnd.Next(0, SubjectAreas.Count);
             response = response.Replace("S%", SubjectAreas[i]);
+
             i = rnd.Next(0, Meals.Length);
             response = response.Replace("M%", Meals[i]);
+
             i = rnd.Next(0, AuctionVendors.Length);
             response = response.Replace("V%", AuctionVendors[i]);
+            
             i = rnd.Next(0, Accessories.Length);
             response = response.Replace("A%", Accessories[i]);
+
             i = rnd.Next(0, Occupations.Length);
             response = response.Replace("O%", Occupations[i]);
+
             i = rnd.Next(0, Hobbies.Length);
             response = response.Replace("H%", Hobbies[i]);
+            
+            i = rnd.Next(0, BodyParts.Length);
+            response = response.Replace("B%", BodyParts[i]);
+            
+            i = rnd.Next(0, Events.Length);
+            response = response.Replace("E%", Events[i]);
+
+            i = rnd.Next(0, BoyDolls.Length);
+            response = response.Replace("Y%", BoyDolls[i]);
+
+            i = rnd.Next(0, GirlDolls.Length);
+            response = response.Replace("X%", GirlDolls[i]);
 
             i = rnd.Next(0, 20);
             if (i > 16) { response = response.ToLower(); }
@@ -465,8 +497,8 @@ namespace Livestream_Chat_Simulator.Classes
             if (i == 5) { response = "Anyone else from T%?"; }
             if (i == 6) { response = "O% is so hard when you keep losing your A%"; }
             if (i == 7) { response = "O% is so difficult when you keep misplacing your A%"; }
-            if (i == 8) { response = "The A% are rubbish compared to the ones you can get in " + Faker.Country.Name(); }
-            if (i == 9) { response = "The A% are sooo bad compared to the ones you can get in " + Faker.Country.Name(); }
+            if (i == 8) { response = "The A% are rubbish compared to the ones you can get in " + GetSensibleCountryName(); }
+            if (i == 9) { response = "The A% are sooo bad compared to the ones you can get in " + GetSensibleCountryName(); }
             if (i == 10) { response = "There's been a surge in interest in P% lately"; }
             if (i == 11) { response = "There's been a surge in interest in P% since " + GetRecentYear(); }
             if (i == 12) { response = "I haven't done O% since " + GetRecentYear(); }
