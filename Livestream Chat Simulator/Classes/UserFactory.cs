@@ -33,6 +33,36 @@ namespace Livestream_Chat_Simulator.Classes
             user.AvatarImageUrl = avatarFolder + "Asuna-Avatar.jpg";
             users.Add(user);
 
+            user = new User();
+            user.Name = "Misaki";
+            user.HTMLColour = "#800080";
+            user.AvatarImageUrl = avatarFolder + "Misaki-Avatar.jpg";
+            users.Add(user);
+
+            user = new User();
+            user.Name = "Yayoi";
+            user.HTMLColour = "#21F9FB";
+            user.AvatarImageUrl = avatarFolder + "Yayoi-Avatar.jpg";
+            users.Add(user);
+
+            user = new User();
+            user.Name = "Kirika";
+            user.HTMLColour = "#33ADF3";
+            user.AvatarImageUrl = avatarFolder + "Kirika_Avatar.jpg";
+            users.Add(user);
+
+            user = new User();
+            user.Name = "Kizuna";
+            user.HTMLColour = "#85C2CB";
+            user.AvatarImageUrl = avatarFolder + "Kizuna-Avatar.jpg";
+            users.Add(user);
+
+            user = new User();
+            user.Name = "Rin";
+            user.HTMLColour = "#17D8FB";
+            user.AvatarImageUrl = avatarFolder + "Rin-Avatar.jpg";
+            users.Add(user);
+
             return users;
         }
 

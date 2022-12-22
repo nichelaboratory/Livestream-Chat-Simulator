@@ -24,7 +24,7 @@
         <div v-if="Responses.length > 0">
             <div>
                 <div v-for="response in Responses" style="padding-bottom:10px;">
-                    <img v-bind:src="response.User.AvatarImageUrl" style="width:48px; height:48px; vertical-align:middle" />
+                    <img v-bind:src="response.User.AvatarImageUrl" style="width:64px; height:64px; vertical-align:middle" />
                     <span :style="{color: response.User.HTMLColour}">{{response.User.Name}}</span> <span style="color:white">:</span> <span v-html="response.Response" style="color:white"></span>
                 </div>
             </div>

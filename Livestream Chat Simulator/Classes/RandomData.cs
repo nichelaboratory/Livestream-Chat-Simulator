@@ -17,10 +17,10 @@ namespace Livestream_Chat_Simulator.Classes
         //F%
         public static string[] FirstPerson = { "You", "U" };
         //T%
-        public static string[] TechPlatforms = { "TikTok", "Twitch", "Facebook", "Reddit", "Vimeo", "Slack" };
+        public static string[] TechPlatforms = { "TikTok", "Twitch", "Facebook", "Reddit", "Vimeo", "Slack", "Fortnite", "The Metaverse" };
 
         //M%
-        public static string[] Meals = { "breakfast", "lunch", "snacks", "PoP Tarts", "toast", "Cheetos", "hummous", "pizza", "&#127856;", "&#129386;", "&#129472;", "&#127829;", "eggs", "pies", "sodas" };
+        public static string[] Meals = { "breakfast", "lunch", "snacks", "PoP Tarts", "toast", "Cheetos", "hummous", "pizza", "&#127856;", "&#129386;", "&#129472;", "&#127829;", "eggs", "pies", "sodas", "ramen noodles", "yaki soba" };
 
         //S%
         public static List<string> SubjectAreas = new List<string>() { "Tech", "Technology", "Programming", "Coding", "Software development" };
