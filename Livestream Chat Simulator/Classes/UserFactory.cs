@@ -64,9 +64,21 @@ namespace Livestream_Chat_Simulator.Classes
             users.Add(user);
 
             user = new User();
-            user.Name = "Kuzuha";
+            user.Name = "Kazuha";
             user.HTMLColour = "#E33939";
-            user.AvatarImageUrl = avatarFolder + "Kuzuha-Avatar.jpg";
+            user.AvatarImageUrl = avatarFolder + "Kazuha-Avatar.jpg";
+            users.Add(user);
+
+            user = new User();
+            user.Name = "Iori";
+            user.HTMLColour = "#B349A5";
+            user.AvatarImageUrl = avatarFolder + "Iori-Avatar.jpg";
+            users.Add(user);
+
+            user = new User();
+            user.Name = "Mytyl";
+            user.HTMLColour = "#86872F";
+            user.AvatarImageUrl = avatarFolder + "Mytyl-Avatar.jpg";
             users.Add(user);
 
             return users;
